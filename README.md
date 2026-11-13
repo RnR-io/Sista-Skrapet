@@ -108,9 +108,13 @@ Because grocery receipts frequently log items in pieces (`st`) rather than weigh
 
 ### 3️⃣ Step 3: Food Waste Cost Calculation (`estimate_waste_cost.py`)
 Calculates wasted food volume, lost value, and unit costs:
-$$\text{waste\_kg} = \text{total\_weight\_kg} \times \text{waste\_rate}$$
-$$\text{waste\_spend\_sek} = \text{total\_spend\_sek} \times \text{waste\_rate}$$
-$$\text{sek\_per\_kg\_waste} = \frac{\text{waste\_spend\_sek}}{\text{waste\_kg}} \quad \text{(Key Metric)}$$
+
+```text
+waste_kg         = total_weight_kg  ×  waste_rate
+waste_spend_sek  = total_spend_sek  ×  waste_rate
+sek_per_kg_waste = waste_spend_sek  /  waste_kg    <-- Key Metric
+```
+
 - **Output**: `output/category_waste_cost.csv`
 
 ---
@@ -141,13 +145,13 @@ The model supports two selectable calculation methods via `--method`:
 - Non-food / bags: `0%`
 
 #### Method B: Shelf-Life Mapping
-- $\le 5$ days: `30%` *(e.g., fresh fish, mince)*
-- $\le 10$ days: `25%` *(e.g., dairy, chark)*
-- $\le 14$ days: `20%` *(e.g., bread, vegetables)*
-- $\le 30$ days: `12%` *(e.g., jams, juices)*
-- $\le 90$ days: `8%` *(e.g., snacks, sweets)*
-- $\le 180$ days: `5%` *(e.g., frozen foods, beverages)*
-- $> 180$ days: `3%` *(e.g., rice, dry pasta, coffee)*
+- `≤ 5 days`: **30%** *(e.g., fresh fish, mince)*
+- `≤ 10 days`: **25%** *(e.g., dairy, chark)*
+- `≤ 14 days`: **20%** *(e.g., bread, vegetables)*
+- `≤ 30 days`: **12%** *(e.g., jams, juices)*
+- `≤ 90 days`: **8%** *(e.g., snacks, sweets)*
+- `≤ 180 days`: **5%** *(e.g., frozen foods, beverages)*
+- `> 180 days`: **3%** *(e.g., rice, dry pasta, coffee)*
 
 </details>
 
@@ -212,6 +216,4 @@ The model supports two selectable calculation methods via `--method`:
 
 - [x] Hook `estimate_waste_cost.py` into `run.py` as Step 3
 - [ ] Refine Method A rates with SCB / Livsmedelsverket category-specific surveys
-- [ ] Validate Method A against peer-reviewed household waste data
-- [ ] **Method D Implementation**: Repurchase gap analysis (using `transaction_date` + `gtin_barcode` to derive empirical waste rates)
 - [ ] Household breakdown analysis (leveraging `synthetic_household` field)
