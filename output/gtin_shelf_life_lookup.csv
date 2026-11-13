@@ -1,0 +1,145 @@
+category_id,gtin_barcode,clean_name,purchase_observations,total_spend_sek,avg_co2e_kg,expected_days_remaining
+CAT_-1,1039.0,Pizza Margherita,1,58.9,0.9,365
+CAT_-1,109317.0,Passerade tomater,1,35.8,2.0,365
+CAT_-1,114527.0,Kaffebön. mellanro,1,141.0,1.0,365
+CAT_-1,1167.0,Grekisk salladsost,2,88.96,0.6,365
+CAT_-1,119862.0,Tiger Crunch,1,32.9,0.12,365
+CAT_-1,1240.0,Svenskt smör,1,59.5,1.0,365
+CAT_-1,129674.0,Riven Mozzarella,1,24.9,0.3,365
+CAT_-1,132790.0,Tomater oregano,1,59.8,0.028,365
+CAT_-1,134084.0,Cashewnötter nat.,1,75.9,0.8,365
+CAT_-1,144201.0,Tex Mex-ost riven,1,21.67,0.28,365
+CAT_-1,146327.0,Bondbröd,1,25.0,0.2,365
+CAT_-1,150472.0,Kaffe Gold hela bö,1,2338.82,4.0,365
+CAT_-1,155852.0,Barista Crema,1,2298.0,4.0,365
+CAT_-1,161694.0,Manti med nötfärs,1,29.9,0.2,365
+CAT_-1,162423.0,Rooibos Te natur,1,15.99,0.064,365
+CAT_-1,163450.0,Isglass Jordgubb,1,31.13,10.0,365
+CAT_-1,164512.0,Smältost i Skivor,1,39.68,0.56,365
+CAT_-1,168387.0,Pizzarulle Burger,1,39.9,0.31,365
+CAT_-1,169870.0,Skålla  mand,1,27.9,0.4,365
+CAT_-1,173184.0,Rispuffar,1,39.9,0.25,365
+CAT_-1,1768.0,Frukostknäcke,2,53.8,0.96,365
+CAT_-1,181210.0,Kaffebönor Brasil,1,99.8,2.0,365
+CAT_-1,189239.0,Nötfärs 18%,1,239.07,0.4052,365
+CAT_-1,197494.0,Fanta Exotic,6,90.1,4.0,365
+CAT_-1,2140.0,Coca Cola regular,1,15.9,10.0,365
+CAT_-1,214095.0,Kyckling Schnizel,1,65.9,0.76,365
+CAT_-1,21940.0,Glass frukt,1,29.9,0.2,365
+CAT_-1,22356.0,Kalkonkorv vitlök,1,34.9,0.08,365
+CAT_-1,24825.0,Pistagenö. utan sa,1,94.44,1.6,365
+CAT_-1,29251.0,Tomatsås m basilik,1,41.8,1.56,365
+CAT_-1,29721.0,Pizza 4 ostar,1,49.9,0.5,365
+CAT_-1,3317.0,Pågen Roast,4,120.4,1.6,365
+CAT_-1,41782.0,Espressobönor,1,2262.0,2.0,365
+CAT_-1,4653.0,GB Tip Top,2,56.0,0.2,365
+CAT_-1,48087.0,Grekisk fetaost,1,55.72,0.4,365
+CAT_-1,4822.0,Coca-Cola Original,1,73.8,4.0,365
+CAT_-1,5600137.0,Mördegskakor,1,99.8,0.4,365
+CAT_-1,5709476.0,Fryst mojito,1,59.8,1.0,365
+CAT_-1,6001442.0,Parmigiano Reggian,1,43.9,1.0,365
+CAT_-1,6008223.0,Mördegskex,1,20.9,0.2,365
+CAT_-1,6008225.0,Mördegskex honung,1,20.9,0.2,365
+CAT_-1,6506125.0,Danska mördegskako,1,69.9,0.2,365
+CAT_-1,6716433.0,Proteinbar banan,1,11.26,0.09,365
+CAT_-1,7003089.0,Grandiosa Pan Pizz,1,93.8,2.28,365
+CAT_-1,7003442.0,Tortilla M 8-pack,2,79.5,1.6,365
+CAT_-1,7003561.0,Tortilla Large,1,41.44,1.48,365
+CAT_-1,7003804.0,Vallmorost,3,57.559999999999995,1.1,365
+CAT_-1,7004251.0,Findus Angusbiff,1,69.0,1.52,365
+CAT_-1,7004809.0,Ost & Broccolipaj,1,49.8,0.88,365
+CAT_-1,7005333.0,Feta Originalet,1,30.19,0.3,365
+CAT_-1,7005348.0,Findus Oxjärpar,1,49.5,1.6,365
+CAT_-1,7005815.0,KRAV EKO Ägg 12-p,4,185.6,0.2,365
+CAT_-1,7006433.0,KRAV Stand.mjölk,6,125.39999999999999,2.0,365
+CAT_-1,7006475.0,Arla Familjefavori,3,282.9,3.0,365
+CAT_-1,7006636.0,Vitamin Björnar,1,66.15,0.2,365
+CAT_-1,7007228.0,Corny Big Chocolat,2,39.5,0.2,365
+CAT_-1,7007762.0,Dalsjöfors Rostbif,1,157.17,1.488,365
+CAT_-1,7008065.0,"Bregott 1,2% salt",1,28.9,0.6,365
+CAT_-1,7008275.0,Pannbiff färdigrät,1,53.8,1.2,365
+CAT_-1,7008289.0,Hushållsost skivad,2,91.6,0.6,365
+CAT_-1,7008314.0,EKO Nötfärs 12%,1,86.9,2.0,365
+CAT_-1,7008789.0,Svenska ärtor,1,9.9,1.2,365
+CAT_-1,7009181.0,Findus Dagens B&W,1,49.5,1.56,365
+CAT_-1,7009481.0,Lipton Forest Frui,1,22.24,0.2,365
+CAT_-1,7009749.0,Scan Högrev,1,256.03,2.45,365
+CAT_-1,7010135.0,Ramlösa Granatäppl,1,18.72,10.0,365
+CAT_-1,7207726.0,Mochi-glass Vanilj,3,214.5,10.0,365
+CAT_-1,7207726.0,Mochi-glass Vit ch,2,134.7,10.0,365
+CAT_-1,7708288.0,Kycklingkebab,1,64.9,0.8,365
+CAT_-1,80355.0,Körsbär lösvikt,5,472.88,0.9575999999999999,365
+CAT_-1,80363.0,Körsbär 500g,1,4139.6,4.0,365
+CAT_-1,80388.0,Nektariner 1 kg,6,3326.0,3.3333333333333335,365
+CAT_-1,80395.0,Persikor lösvikt,1,50.2,0.17888,365
+CAT_-1,80445.0,Paraguayos lösvikt,4,178.32,0.994,365
+CAT_-1,80447.0,Paraguayos,2,119.6,2.0,365
+CAT_-1,80552.0,Melon Waikiki,1,85.92,0.4924,365
+CAT_-1,80580.0,"Melon, Piel de Sapo",1,103.57,0.6928,365
+CAT_-1,80740.0,Drakfrukt kg,1,62.09,10.0,365
+CAT_-1,80898.0,Dadlar Medjool,1,75.61,0.2,365
+CAT_-1,81312.0,Äpple Granny Smith,1,20.33,0.1236,365
+CAT_-1,81334.0,"Äpplen, röda 2kg",1,29.9,4.0,365
+CAT_-1,81540.0,Ekologiska citrone,1,26.9,10.0,365
+CAT_-1,82233.0,Gurka svensk stk,2,69.6,2.24,365
+CAT_-1,82586.0,Paprika mix,1,29.9,0.086,365
+CAT_-1,82708.0,Vitlök solo 150 g,1,24.9,0.3,365
+CAT_-1,82825.0,"Rödbetor, kokta 50",1,13.9,1.0,365
+CAT_-1,83135.0,Färskpotatis fast kg,1,6.78,0.7808,365
+CAT_-1,84449.0,Eko. minimorötter,4,85.4,0.30000000000000004,365
+CAT_-1,9074.0,"CocaCola Zero 1,5L",1,19.35,3.0,365
+CAT_-1,99000.0,Rapsolja,1,23.56,0.2,365
+CAT_1,22485.0,Krutonger,1,14.9,0.2,14
+CAT_1,5619297.0,Madeleinekakor,1,32.9,0.24,14
+CAT_1,7009740.0,Surdegstoast (k7st,1,28.29,0.32,14
+CAT_12,3284.0,Yoghurt grekisk,6,201.39999999999998,0.20000000000000004,10
+CAT_12,7000325.0,Vispgrädde,1,63.8,0.4,10
+CAT_12,7000327.0,Vispgrädde,1,16.55,0.2,10
+CAT_13,118290.0,Valnötsbröd,1,25.0,0.2,180
+CAT_13,12970.0,Pekannötter,1,99.8,0.4,180
+CAT_13,29505.0,Macadamia nötter,2,7341.26,0.7,180
+CAT_13,80891.0,"Datteln, Medjoul",1,113.47,0.3,180
+CAT_17,129599.0,EKO Kidney bönor,1,24.4,0.4,14
+CAT_17,80620.0,"Avokado, 2pack mog",2,74.8,0.2,14
+CAT_17,82046.0,Crisp Sallad,1,14.9,0.2,14
+CAT_17,82181.0,Aubergine stk,1,27.8,0.4,14
+CAT_17,82241.0,"Gurka, Snackgurka",6,21568.15,0.8666666666666667,14
+CAT_17,82380.0,Tomat Körsbärskvist,3,108.71,0.07786666666666667,14
+CAT_17,82411.0,"Tomat, miniplommon",1,34.9,0.2,14
+CAT_17,82903.0,Broccoli,1,24.9,0.2,14
+CAT_17,83015.0,Champinjoner 250 g,2,33.8,0.5,14
+CAT_17,83325.0,"Lök, gul lösvikt",3,20.64,0.12626666666666667,14
+CAT_18,134680.0,Kycklingkorv,1,49.8,0.4,5
+CAT_18,226773.0,Skivad korv,1,39.9,0.2,5
+CAT_18,7002781.0,Kycklinggrillkorv,1,33.8,0.4,5
+CAT_19,217024.0,Surdegspizza sardell,1,39.9,0.48,14
+CAT_21,7005816.0,KRAV Ägg 6-pack,2,83.69999999999999,0.264,21
+CAT_4,7007228.0,Corny Big Chocolat,1,15.8,0.21,180
+CAT_5,1008070.0,Kakor ring,1,19.9,0.3,120
+CAT_5,80446.0,Dounutpersikor,4,5290.0,0.32,120
+CAT_6,159082.0,Isglass vattenmelon,1,34.9,0.2,7
+CAT_6,80000.0,"Bananer, lösvikt",2,33.19,0.4769856,7
+CAT_6,80085.0,Klementiner lösvikt,1,17.31,0.113535,7
+CAT_6,80170.0,Citroner 500 g,2,31.799999999999997,1.0,7
+CAT_6,80172.0,Citroner 1 kg,2,64.7,2.0,7
+CAT_6,80220.0,Äpple IngM 80220,1,20.45,0.0293,7
+CAT_6,80346.0,Aprikoser 1 kg,3,149.6,2.6666666666666665,7
+CAT_6,80380.0,Nektariner lösvikt,3,180.19,0.28013333333333335,7
+CAT_6,80388.0,Nektariner 1 kg,1,37.9,2.0,7
+CAT_6,80451.0,Donutnektariner,5,289.0,0.4,7
+CAT_6,80485.0,Vindruvor röda 500,1,69.8,0.4,7
+CAT_6,80531.0,Vindruvor,1,39.8,0.4,7
+CAT_6,80537.0,Minivattenmelon,2,180.53,0.9072,7
+CAT_6,80570.0,Vattenmelon,1,62.57,1.264,7
+CAT_6,80575.0,Kärnfri Vattenmelon,6,474.69,0.7951333333333332,7
+CAT_6,80795.0,Jordgubbar lösvikt,3,208.35999999999999,0.14573333333333335,7
+CAT_6,80803.0,Jordgubbar 400 g,1,89.8,1.6,7
+CAT_6,80803.0,Jordgubbar 400 gr,1,36.9,0.2,7
+CAT_6,80818.0,Blåbär 400g,3,2252.6000000000004,1.0666666666666667,7
+CAT_6,80823.0,Blåbär 250g,2,89.8,0.5,7
+CAT_6,80835.0,Hallon,1,26.9,0.2,7
+CAT_6,80883.0,Dadlar 600g,2,93.8,1.2,7
+CAT_6,82452.0,Hallontomat,1,5.69,0.0572,7
+CAT_6,83516.0,Frilandsgurka 750g,2,104.69999999999999,0.525,7
+CAT_6,83687.0,Cocktailkvisttomat,1,34.9,0.125,7
+CAT_8,83693.0,Linneatomat 300g,1,79.8,0.18,30
